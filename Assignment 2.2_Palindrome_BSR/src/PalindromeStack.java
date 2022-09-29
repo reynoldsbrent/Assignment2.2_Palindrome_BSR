@@ -9,7 +9,7 @@ public class PalindromeStack {
 	
 
 	/**
-	 * No arg constructor creates a new stack of character type
+	 * No argument constructor creates a new stack of character type
 	 */
 	public PalindromeStack() {
 		Stack<Character> stack = new Stack<Character>();
